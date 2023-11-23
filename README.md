@@ -9,3 +9,22 @@ Command line modified cp command.
 The **Mycp** has not produced any errors so far on UNIX systems. It has been designed and tested on Ubuntu Flavour version 23.10 x86_64.
 
 If you face a situation full of errors, please contact the maintainers. 
+
+## Tabel of COntents
+<!-- vim-markdown-toc Marked -->
+
+* [Features](#features)
+* [Requirements](#requirements)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Error codes](#error-codes)
+* [Reporting bugs](#reporting-bugs)
+* [Credits](#credits)
+
+<!-- vim-markdown-toc -->
+
+## Features
+
+**Mycp** provides the following features:
+
+ - 
