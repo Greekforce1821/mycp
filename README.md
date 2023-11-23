@@ -6,7 +6,7 @@ Command line modified cp command.
 
 ## Important
 
-The **Mycp** has not produced any errors so far on UNIX systems. It has been designed and tested on Ubuntu Flavour version 23.10 x86_64.
+**Mycp** has not produced any errors so far on UNIX systems. It has been designed and tested on Ubuntu Flavour version 23.10 x86_64.
 
 If you face a situation full of errors, please contact the maintainers. 
 
