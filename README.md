@@ -10,7 +10,7 @@ Command line modified cp command.
 
 If you face a situation full of errors, please contact the maintainers. 
 
-## Tabel of COntents
+## Table of Contents
 <!-- vim-markdown-toc Marked -->
 
 * [Features](#features)
