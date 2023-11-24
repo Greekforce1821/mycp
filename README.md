@@ -153,6 +153,6 @@ SOFTWARE.
 
 ## Authors
 
-The above program is a creation of [Spyros Kokotos](https://github.com/Greekforce1821) spiroskoeu@gmail.com & [Christos Karydis](https://github.com/chriskarydis) chriskaridis76@gmail.com, and you can use it for your personal projects or further develop it as long as you always give credit to the creators.
+The above program is a creation of Spyros Kokotos - inf2021098@ionio.gr & Christos Karydis - inf2022076@ionio.gr, and you can use it for your personal projects or further develop it as long as you always give credit to the creators.
 
 
