@@ -77,6 +77,10 @@ If you prefer not to use the command via `./mycp`, there is also an alternative 
 
 **Warning** You need to replace the username with the name you are using!
 
+  - After issuing the above command, press `CTRL + O` to save, then press `ENTER`, and finally, press `CTRL + X` to exit the .bashrc file.
+
+  - Finally, execute the following command: `source ~/.bashrc` to update the .bashrc file so that you can run the `mycp` command.
+
 
 
 
