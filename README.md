@@ -50,6 +50,8 @@ After a successful cloning and compiling, the command to execute it:
 
 This will display the usage of mycp program's window with a list of options.
 
+![Usage](https://github.com/Greekforce1821/mycp/assets/33377581/0ca290c2-6715-40f0-9dde-78ccdb2d72cc)
+
 If you wish to use the command with the default I/O buffer you need to issue the following on your terminal:
 
   - `./mycp <source_file> <destination>`
