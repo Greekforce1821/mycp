@@ -105,3 +105,16 @@ If you prefer not to use the command via `./mycp`, there is also an alternative 
   - You misspelled the `mycp` command.
   
   - 
+
+
+
+
+
+
+## Reporting bugs
+
+
+When a bug is found, please do report it by [opening an issue at github](https://github.com/Greekforce1821/mycp/issues), as already stated above.
+
+
+In you report you should, at the very least, state your **Linux version**, **GCC version** and **CPU version (x86 or x64)** of installation.
