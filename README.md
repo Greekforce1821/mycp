@@ -151,4 +151,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+## Credits
+
+The above program is a creation of [Spyros Kokotos](https://github.com/Greekforce1821] & [Christos Karydis](https://github.com/chriskarydis), and you can use it for your personal projects or further develop it as long as you always give credit to the creators.
+
 
