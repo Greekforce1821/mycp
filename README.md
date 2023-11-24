@@ -16,7 +16,7 @@ If you face a situation full of errors, please contact the maintainers.
 * [Features](#features)
 * [Requirements](#requirements)
 * [Installation](#installation)
-* [Usage](#usage)
+* [Basic usage](#basic-usage)
 * [Error codes](#error-codes)
 * [Reporting bugs](#reporting-bugs)
 * [Credits](#credits)
