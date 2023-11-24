@@ -21,7 +21,7 @@ If you face a situation full of errors, please contact the maintainers.
 * [Error codes](#error-codes)
 * [Reporting bugs](#reporting-bugs)
 * [License](#license)
-* [Credits](#credits)
+* [Authors](#authors)
 
 <!-- vim-markdown-toc -->
 
@@ -151,8 +151,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-## Credits
+## Authors
 
-The above program is a creation of [Spyros Kokotos](https://github.com/Greekforce1821) & [Christos Karydis](https://github.com/chriskarydis), and you can use it for your personal projects or further develop it as long as you always give credit to the creators.
+The above program is a creation of [Spyros Kokotos](https://github.com/Greekforce1821) spiroskoeu@gmail.com & [Christos Karydis](https://github.com/chriskarydis) chriskaridis76@gmail.com, and you can use it for your personal projects or further develop it as long as you always give credit to the creators.
 
 
