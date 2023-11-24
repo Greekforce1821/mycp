@@ -75,7 +75,7 @@ If you prefer not to use the command via `./mycp`, there is also an alternative 
 
   - Insert the following command at the end of the file (.bashrc): `export PATH=$PATH:/home/username/mycp`
 
-**Warning** You need to replace the username with the name you are using!
+**Warning:** You need to replace the username with the name you are using!
 
   - After issuing the above command, press `CTRL + O` to save, then press `ENTER`, and finally, press `CTRL + X` to exit the .bashrc file.
 
@@ -98,9 +98,9 @@ If you prefer not to use the command via `./mycp`, there is also an alternative 
 |     8     |ERROR IN STATVFS|
 |     9     |INSUFFICIENT AVAILABLE DISK SPACE|
 
-**Exit Code 0**: If your program returns exit code 0 after execution, it means that it ran without any issues. :D
+**Exit Code 0:** If your program returns exit code 0 after execution, it means that it ran without any issues. :D
 
-**Exit Code 1**: In the event that your program returns exit code 1 after execution, it means that you haven't provided the correct arguments during the execution of 'mycp.' Specifically:
+**Exit Code 1:** In the event that your program returns exit code 1 after execution, it means that you haven't provided the correct arguments during the execution of 'mycp.' Specifically:
 
   - You misspelled the `mycp` command.
   
@@ -122,7 +122,7 @@ A simple screenshot of your terminal output would be preferable by issuing the f
 
 ![Neofetch output](https://skokotos.com/images/neofetch.png)
 
-**Warning** As you can see in the above screenshot, it does not include the correct information required because the program is running on a virtual machine and cannot display the real components of the computer.
+**Warning:** As you can see in the above screenshot, it does not include the correct information required because the program is running on a virtual machine and cannot display the real components of the computer.
 
 
 
