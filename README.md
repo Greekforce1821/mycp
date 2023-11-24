@@ -17,7 +17,7 @@ If you face a situation full of errors, please contact the maintainers.
 * [Requirements](#requirements)
 * [Installation](#installation)
 * [Basic usage](#basic-usage)
-* [Alternative usage](#alternative-usage)
+* [Alternative usage (Optional)](#alternative-usage)
 * [Error codes](#error-codes)
 * [Reporting bugs](#reporting-bugs)
 * [Credits](#credits)
@@ -61,7 +61,7 @@ If you wish to use the command with the user-specified buffer you need to issue 
 
   - `./mycp -b<buffer_size> <source_file> <destination>`
 
-## Alternative usage
+## Alternative usage (Optional)
 
 If you prefer not to use the command via `./mycp`, there is also an alternative usage:
 
