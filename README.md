@@ -86,7 +86,7 @@ If you prefer not to use the command via `./mycp`, there is also an alternative 
 **Mycp** has an integrated error system with numerical codes. Each code corresponds to a string explaining the error. Below, you will find the table of possible errors:
 
 | Exit code | Description |
-| --------- |  ---------  |
+| :---------: |  :---------:  |
 |     0     |   SUCCESS   |
 |     1     |INSUFFICIENT ARGUMENTS|
 |     2     |INVALID BUFFER SIZE|
