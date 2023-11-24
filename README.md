@@ -17,7 +17,7 @@ If you face a situation full of errors, please contact the maintainers.
 * [Requirements](#requirements)
 * [Installation](#installation)
 * [Basic usage](#basic-usage)
-* [Alternative usage (Optional)](#alternative-usage)
+* [Alternative usage (Optional)](#alternative-usage-optional)
 * [Error codes](#error-codes)
 * [Reporting bugs](#reporting-bugs)
 * [Credits](#credits)
