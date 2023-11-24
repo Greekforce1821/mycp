@@ -20,6 +20,7 @@ If you face a situation full of errors, please contact the maintainers.
 * [Alternative usage (Optional)](#alternative-usage-optional)
 * [Error codes](#error-codes)
 * [Reporting bugs](#reporting-bugs)
+* [License](#license)
 * [Credits](#credits)
 
 <!-- vim-markdown-toc -->
@@ -123,6 +124,31 @@ A simple screenshot of your terminal output would be preferable by issuing the f
 ![Neofetch output](https://skokotos.com/images/neofetch.png)
 
 **Warning:** As you can see in the above screenshot, it does not include the correct information required because the program is running on a virtual machine and cannot display the real components of the computer.
+
+
+## License
+
+MIT License
+
+Copyright (c) 2023 Spyros Kokotos & Christos Karydis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
 
