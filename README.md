@@ -97,3 +97,11 @@ If you prefer not to use the command via `./mycp`, there is also an alternative 
 |     7     |INSUFFICIENT DISK SPACE|
 |     8     |ERROR IN STATVFS|
 |     9     |INSUFFICIENT AVAILABLE DISK SPACE|
+
+**Exit Code 0**: If your program returns exit code 0 after execution, it means that it ran without any issues. :D
+
+**Exit Code 1**: In the event that your program returns exit code 1 after execution, it means that you haven't provided the correct arguments during the execution of 'mycp.' Specifically:
+
+  - You misspelled the `mycp` command.
+  
+  - 
