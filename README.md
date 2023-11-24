@@ -63,7 +63,17 @@ If you wish to use the command with the user-specified buffer you need to issue 
 
 ## Alternative usage
 
-If you prefer not to use the command via `./mycp`, there is also an alternative usage.
+If you prefer not to use the command via `./mycp`, there is also an alternative usage:
+
+  - You need to save the `src` folder to a specific location within your system where you believe it won't be altered.
+
+  - Open the terminal within the directory `src` and issue the following command `pwd`, it will display the current working directory, showing the full path.
+
+  - Copy the full path that the terminal displayed to you and open another terminal window.
+
+  - 
+
+
 
 
 
