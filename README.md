@@ -122,5 +122,7 @@ A simple screenshot of your terminal output would be preferable by issuing the f
 
 ![Neofetch output](https://skokotos.com/images/neofetch.png)
 
+**Warning** As you can see in the above screenshot, it does not include the correct information required because the program is running on a virtual machine and cannot display the real components of the computer.
+
 
 
