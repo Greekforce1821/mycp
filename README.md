@@ -40,7 +40,7 @@ If you face a situation full of errors, please contact the maintainers.
 
 ## Installation
 
-Clone the above repository locally on your computer, open the src folder, run the command 'make' in the terminal, and finally, execute the command './mycp'.
+Clone the above repository locally on your computer, open the src folder, run the command 'make' in the terminal, and finally, execute the command `./mycp`.
 
 ## Basic usage
 
