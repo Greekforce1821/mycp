@@ -88,21 +88,12 @@ If you prefer not to use the command via `./mycp`, there is also an alternative 
 | Exit code | Description |
 | --------- |  ---------  |
 |     0     |   SUCCESS   |
-| --------- |  ---------  |
 |     1     |INSUFFICIENT ARGUMENTS|
-| --------- |  ---------  |
 |     2     |INVALID BUFFER SIZE|
-| --------- |  ---------  |
 |     3     |UNABLE TO OPEN SOURCE FILE|
-| --------- |  ---------  |
 |     4     |UNABLE TO CREATE DESTINATION FILE|
-| --------- |  ---------  |
 |     5     |UNABLE TO CREATE REPORT.OUT|
-| --------- |  ---------  |
 |     6     |UNABLE TO ALLOCATE MEMORY|
-| --------- |  ---------  |
 |     7     |INSUFFICIENT DISK SPACE|
-| --------- |  ---------  |
 |     8     |ERROR IN STATVFS|
-| --------- |  ---------  |
 |     9     |INSUFFICIENT AVAILABLE DISK SPACE|
