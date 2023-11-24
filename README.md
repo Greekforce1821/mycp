@@ -71,7 +71,12 @@ If you prefer not to use the command via `./mycp`, there is also an alternative 
 
   - Copy the full path that the terminal displayed to you and open another terminal window.
 
-  - 
+  - Issue the command: `nano ~/.bashrc` to insert the path from the mycp file.
+
+  - Insert the following command at the end of the file (.bashrc): `export PATH=$PATH:/home/username/mycp`
+
+**Warning** You need to replace the username with the name you are using!
+
 
 
 
