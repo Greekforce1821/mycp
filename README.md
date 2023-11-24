@@ -27,4 +27,26 @@ If you face a situation full of errors, please contact the maintainers.
 
 **Mycp** provides the following features:
 
- - 
+ -  File copying with standard I/O buffer.
+ -  File copying with a user-specified buffer.
+ -  Timing of the copy operation for the file/files.
+ -  Easy error detection.
+ 
+## Requirements
+* Unix based OS's
+  - GCC Compiler
+  - makefile
+
+## Installation
+
+Clone the above repository locally on your computer, open the src folder, run the command 'make' in the terminal, and finally, execute the command './mycp'.
+
+## Basic usage
+
+After a successful cloning and compiling, the command to execute it:
+    ./mycp
+
+This will display the usage of mycp program's window with a list of options.
+
+
+
