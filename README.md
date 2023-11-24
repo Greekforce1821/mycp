@@ -116,9 +116,11 @@ If you prefer not to use the command via `./mycp`, there is also an alternative 
 
 When a bug is found, please do report it by [opening an issue at github](https://github.com/Greekforce1821/mycp/issues), as already stated above.
 
-In you report you should, at the very least, state your **Linux version**, **GCC version** and **CPU version (x86 or x64)** of installation.
+In you report you should, at the very least, state your **Linux version**, **GCC version**, **Kernel version** and **CPU version (x86 or x64)** of installation.
 
 A simple screenshot of your terminal output would be preferable by issuing the following command: `neofetch`
 
 ![Neofetch output](https://github.com/Greekforce1821/mycp/assets/33377581/9cf825cb-b9db-4248-b609-0a658d0a8743)
+
+
 
