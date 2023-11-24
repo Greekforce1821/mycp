@@ -81,8 +81,28 @@ If you prefer not to use the command via `./mycp`, there is also an alternative 
 
   - Finally, execute the following command: `source ~/.bashrc` to update the .bashrc file so that you can run the `mycp` command.
 
+## Error codes
 
+**Mycp** has an integrated error system with numerical codes. Each code corresponds to a string explaining the error. Below, you will find the table of possible errors:
 
-
-
-
+| Exit code | Description |
+| --------- |  ---------  |
+|     0     |   SUCCESS   |
+| --------- |  ---------  |
+|     1     |INSUFFICIENT ARGUMENTS|
+| --------- |  ---------  |
+|     2     |INVALID BUFFER SIZE|
+| --------- |  ---------  |
+|     3     |UNABLE TO OPEN SOURCE FILE|
+| --------- |  ---------  |
+|     4     |UNABLE TO CREATE DESTINATION FILE|
+| --------- |  ---------  |
+|     5     |UNABLE TO CREATE REPORT.OUT|
+| --------- |  ---------  |
+|     6     |UNABLE TO ALLOCATE MEMORY|
+| --------- |  ---------  |
+|     7     |INSUFFICIENT DISK SPACE|
+| --------- |  ---------  |
+|     8     |ERROR IN STATVFS|
+| --------- |  ---------  |
+|     9     |INSUFFICIENT AVAILABLE DISK SPACE|
