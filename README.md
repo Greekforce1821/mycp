@@ -139,7 +139,7 @@ If you prefer not to use the command via `./mycp`, there is also an alternative 
 
 **Exit Code 6:** In the event that your program returns exit code 6 after execution, it means that the allocation of memory for the buffer is unsuccessful during the execution of 'mycp.' Specifically:
 
-  - You may have give a buffer size that is larger than the available memory in your system
+  - You may have given a buffer size that is larger than the available memory in your system
 
 **Exit Code 7:** In the event that your program returns exit code 7 after execution, it means that your disk space is not enough for the execution of 'mycp.'
 
