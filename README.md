@@ -113,15 +113,15 @@ If you prefer not to use the command via `./mycp`, there is also an alternative 
  
   - Misspelled the "-b" before the buffer size.
 
-**Exit Code 3:** In the event that your program returns exit code 3 after execution, it means that the process of opening the <source_file> is unseccessful during the execution of 'mycp.' Specifically:
+**Exit Code 3:** In the event that your program returns exit code 3 after execution, it means that the process of opening the <source_file> was unseccessful during the execution of 'mycp.' Specifically:
 
-  - You may give wrong path for the file.
+  - You may have given wrong path for the file.
 
   - You may have not the permissions to read the file.
 
   - The file you provided does not exist in your system at all.
 
-**Exit Code 4:** In the event that your program returns exit code 4 after execution, it means that the creation of <report.out> is unsuccessful during the execution of 'mycp.' Specifically:
+**Exit Code 4:** In the event that your program returns exit code 4 after execution, it means that the creation of <report.out> was unsuccessful during the execution of 'mycp.' Specifically:
 
   - You may not have enough space in your system.
 
@@ -129,7 +129,7 @@ If you prefer not to use the command via `./mycp`, there is also an alternative 
 
   - You may have tried to overwrite a file for which you do not have permissions.
 
-**Exit Code 5:** In the event that your program returns exit code 5 after execution, it means that the creation of <report.out> is unsuccessful during the execution of 'mycp.' Specifically:
+**Exit Code 5:** In the event that your program returns exit code 5 after execution, it means that the creation of <report.out> was unsuccessful during the execution of 'mycp.' Specifically:
 
   - You may not have enough space in your system.
 
@@ -137,15 +137,15 @@ If you prefer not to use the command via `./mycp`, there is also an alternative 
 
   - You may have tried to overwrite a file for which you do not have permissions.
 
-**Exit Code 6:** In the event that your program returns exit code 6 after execution, it means that the allocation of memory for the buffer is unsuccessful during the execution of 'mycp.' Specifically:
+**Exit Code 6:** In the event that your program returns exit code 6 after execution, it means that the allocation of memory for the buffer was unsuccessful during the execution of 'mycp.' Specifically:
 
   - You may have provided a buffer size larger than the available memory in your system.
 
-**Exit Code 7:** In the event that your program returns exit code 7 after execution, it means that your disk space is insufficient for the execution of 'mycp.'
+**Exit Code 7:** In the event that your program returns exit code 7 after execution, it means that your disk space was insufficient for the execution of 'mycp.'
 
-**Exit Code 8:** In the event that your program returns exit code 8 after execution, it means that the process of obtaining information about the file system is unsuccessful during the execution of 'mycp.'
+**Exit Code 8:** In the event that your program returns exit code 8 after execution, it means that the process of obtaining information about the file system was unsuccessful during the execution of 'mycp.'
 
-**Exit Code 9:** In the event that your program returns exit code 9 after execution, it means that the availabe space in your disk is not enough for the creation of the files needed during the execution of 'mycp.'
+**Exit Code 9:** In the event that your program returns exit code 9 after execution, it means that the availabe space in your disk was not enough for the creation of the files needed during the execution of 'mycp.'
 
 ## Reporting bugs
 
