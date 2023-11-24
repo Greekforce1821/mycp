@@ -50,8 +50,13 @@ After a successful cloning and compiling, the command to execute it:
 
 This will display the usage of mycp program's window with a list of options.
 
-  - "**./mycp <source_file> <destination>**"
-  - "**./mycp -b<buffer_size> <source_file> <destination>**"
+If you wish to use the command with the default I/O buffer you need to issue the following on your terminal:
+
+  - `./mycp <source_file> <destination>`
+
+If you wish to use the command with the user-specified buffer you need to issue the following on your terminal:
+
+  - `/mycp -b<buffer_size> <source_file> <destination>`
 
 
 
