@@ -44,6 +44,7 @@ Clone the above repository locally on your computer, open the src folder, run th
 ## Basic usage
 
 After a successful cloning and compiling, the command to execute it:
+
     ./mycp
 
 This will display the usage of mycp program's window with a list of options.
