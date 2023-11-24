@@ -34,6 +34,7 @@ If you face a situation full of errors, please contact the maintainers.
  
 ## Requirements
 * Unix based OS's
+
   - GCC Compiler
   - makefile
 
