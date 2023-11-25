@@ -113,7 +113,7 @@ If you prefer not to use the command via `./mycp`, there is also an alternative 
  
   - Misspelled the "-b" before the buffer size.
 
-**Exit Code 3:** In the event that your program returns exit code 3 after execution, it means that the process of opening the <source_file> was unseccessful during the execution of 'mycp.' Specifically:
+**Exit Code 3:** In the event that your program returns exit code 3 after execution, it means that the process of opening the <source_file> was unsuccessful during the execution of 'mycp.' Specifically:
 
   - You may have given wrong path for the file.
 
